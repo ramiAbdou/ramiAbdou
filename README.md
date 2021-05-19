@@ -1,18 +1,12 @@
-### Hi there, I'm Rami Abdou 😃👋
+### Hi there, I'm Rami Abdou 👋
 
-I'm a software engineer, entrepreneur and (wanna-be) designer.
+I'm a software engineer, entrepreneur and (_wanna-be_) designer!
 
-<!--
-**ramiAbdou/ramiAbdou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... SquadUp!, an Airtable application that matches people into groups based on similar interests.
+- 🔥 The best language in the world is ... **Typescript**! Shoutout to React and Node too.
+- 🌱 I’m currently learning ... GraphQL and PostgreSQL.
+- 💬 Ask me about ... my journey into technology and building Underrepresented Minorities in Computing (@ Cornell).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: After I graduated college, I left a Microsoft offer on the table to work on my startup Bloom.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to collaborting on new opportunities and projects so, shoot me a message and let's chat! ramiabdou98@gmail.com
