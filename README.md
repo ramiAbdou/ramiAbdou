@@ -1,4 +1,6 @@
-### Hi there, I'm Rami Abdou - a software engineer, entrepreneur and (wanna-be) designer 👋
+### Hi there, I'm Rami Abdou 😃👋
+
+I'm a software engineer, entrepreneur and (wanna-be) designer.
 
 <!--
 **ramiAbdou/ramiAbdou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
