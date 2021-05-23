@@ -2,7 +2,7 @@
 
 I'm a software engineer, entrepreneur and (_wanna-be_) designer!
 
-- 🔭 I’m currently working on ... SquadUp!, an Airtable application that matches people into groups based on similar interests.
+- 🔭 I’m currently working on ... Mentees n' Mentors!, an Airtable application that matches mentees to mentors based on custom Airtable fields.
 - 🔥 The best language in the world is ... **Typescript**! Shoutout to React and Node too.
 - 🌱 I’m currently learning ... GraphQL and PostgreSQL.
 - 💬 Ask me about ... my journey into technology and building Underrepresented Minorities in Computing (@ Cornell).
